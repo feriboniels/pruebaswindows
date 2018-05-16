@@ -2,5 +2,10 @@ Algunos camibos extras servirán para esto
 Pequeños cambios
 Otros cambios más
 
+<<<<<<< HEAD
 Otro cambio que deberá aparecer en el repositorio esperemos que funcione ya! 
 Aca un cambio más, saludos Andrea.
+=======
+Otro cambio que deberá aparecer en el repositorio esperemos que funcione ya!
+este es un cambio para ver que se actualice en ambos branches.
+>>>>>>> 1f8d9a856e787211c2d5bcea857d0decb01d6ac2
